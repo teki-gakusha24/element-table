@@ -1,3 +1,30 @@
 body {
     background: rgb(250, 241, 189);
 }
+
+.wrapper {
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+}
+.box {
+    box-sizing: border-box;
+    height: 4.5rem;
+    width: 4.5rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.hel {
+    display: flex;
+    justify-self: flex-end;
+}
+
+.gases {
+    background: rgb(247, 200, 208);
+}
+
+.nonmetal {
+    background: rgb(192, 192, 255);
+}
