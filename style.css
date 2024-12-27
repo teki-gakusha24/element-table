@@ -21,6 +21,10 @@ body {
     display: flex;
 }
 
+.row-3 {
+    display: flex;
+}
+
 .box {
     box-sizing: border-box;
     height: 4.5rem;
@@ -35,6 +39,10 @@ body {
 
 .boron {
     margin-left:auto;
+}
+
+.aluminium {
+    margin-left: auto;
 }
 
 .gases {
@@ -55,4 +63,8 @@ body {
 
 .metalloid {
     background: rgb(245, 245, 105);
+}
+
+.post-tran-metal {
+    background: rgb(135, 253, 185);
 }
