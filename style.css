@@ -2,9 +2,12 @@ body {
     background: rgb(250, 241, 189);
 }
 
+.wrapper {
+    padding-top: 50px;
+}
 .container {
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 240px;
+    margin-right: 240px;
 }
 
 .row-1 {
@@ -19,12 +22,20 @@ body {
     display: flex;
 }
 
+
 .box {
+    display: flex;
     box-sizing: border-box;
     height: 4.5rem;
     width: 4.5rem;
     border-radius: 5px;
     margin: 2px;
+    justify-content: center;
+}
+
+.xd {
+    font-size: 25px; display: flex; align-items: center;
+    
 }
 
 .hel {
@@ -43,6 +54,12 @@ body {
     margin-left: auto;
 }
 
+.row-5 {
+    display: flex;
+}
+.zirconium {
+    margin-left: auto;
+}
 .row-4 {
     display: flex;
 }
@@ -74,3 +91,4 @@ body {
 .post-tran-metal {
     background: rgb(135, 253, 185);
 }
+
