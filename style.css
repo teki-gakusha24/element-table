@@ -64,6 +64,14 @@ body {
     display: flex;
 }
 
+.row-6 {
+    display: flex;
+}
+
+.hafnium {
+    margin-left: auto;
+}
+
 .tran-metal {
     background: rgb(186, 139, 240);
 }
@@ -90,5 +98,9 @@ body {
 
 .post-tran-metal {
     background: rgb(135, 253, 185);
+}
+
+.lantha {
+    background: rgb(201, 248, 242);
 }
 
