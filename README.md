@@ -30,4 +30,10 @@ ___
 
 ___
 
+####Afterword from the author
+
+```I really want to make the code look nicer and better in the future, the code right now looks pretty bad lol. I'd say it's a pretty good start to my journey in learning basic HTML and CSS.```
+
+___
+
 >_Last update: December 30, 2024_
