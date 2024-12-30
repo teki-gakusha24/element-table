@@ -26,6 +26,7 @@ body {
 .box {
     display: flex;
     box-sizing: border-box;
+    border: 2px solid black;
     height: 4.5rem;
     width: 4.5rem;
     border-radius: 5px;
@@ -68,8 +69,38 @@ body {
     display: flex;
 }
 
+.row-7 {
+    display: flex;
+}
+
 .hafnium {
     margin-left: auto;
+}
+
+.ruther {
+    margin-left: auto;
+}
+
+.row-8 {
+    display: flex;
+    margin-top: 25px;
+}
+.row-9 {
+    display: flex;
+}
+.thorium {
+    margin-left: auto;
+}
+.cerium {
+    margin-left: auto;
+}
+
+.blank {
+    visibility: hidden;
+}
+
+.unknown {
+    background: rgb(194, 194, 194);
 }
 
 .tran-metal {
@@ -88,6 +119,9 @@ body {
     background: rgb(153, 250, 234);
 }
 
+.actinides {
+    background: rgb(255, 207, 144);
+}
 .alka-earth {
     background: rgb(248, 107, 107);
 }
